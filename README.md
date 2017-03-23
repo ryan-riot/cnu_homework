@@ -1,3 +1,2 @@
 # cnu_homework
-cnu_homework
-Lee HooMyeong
+cnu_homework Lee HooMyeong
