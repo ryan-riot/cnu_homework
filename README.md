@@ -1,3 +1,2 @@
 # cnu_homework
-cnu_homework 이후명
-
+cnu_homework 강천성
