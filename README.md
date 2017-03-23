@@ -1,3 +1,3 @@
 # cnu_homework
 cnu_homework
-Jeong Seok Hyeon
+Jeong Seok Hyeon 24years old
