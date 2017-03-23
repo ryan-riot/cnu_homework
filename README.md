@@ -1,2 +1,2 @@
-# cnu_homework
-cnu_homework
+Yun Dong Hyeon
+lee suk hoon
