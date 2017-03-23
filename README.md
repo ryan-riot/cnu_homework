@@ -1,2 +1,3 @@
 # cnu_homework
-cnu_homework Bon-cheul Koo
+Bon-cheul Koo
+JunYoung Park
