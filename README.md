@@ -1,2 +1,1 @@
-# cnu_homework
-cnu_homework
+Kim Do Hoon
