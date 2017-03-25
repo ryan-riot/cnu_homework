@@ -1,1 +1,2 @@
-Yun Dong Hyeon 1
+Yun Dong Hyeon
+Kim Do Hoon
