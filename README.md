@@ -1,5 +1,5 @@
 # cnu_homework
-Bon-cheul Koo-ver.2
-JunYoung Park
 YunJongMin
+Bon-cheul
+JunYoung Park
 Dong-Seop Lee
