@@ -1,7 +1,5 @@
 # cnu_homework
-cnu_homework
-201102474 YunJongMin
-Bon-cheul Koo:version 3
-JunYoung Park
 YunJongMin
+Bon-cheul
+JunYoung Park
 Dong-Seop Lee
